@@ -1,4 +1,4 @@
-# Social Sciences and Computing
+# Social Sciences and Computing - Course Description
 M. Fuat Kına
 mkina18@ku.edu.tr
 fuatkina@gmail.com
